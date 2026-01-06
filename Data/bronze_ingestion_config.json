@@ -1,73 +1,73 @@
 [
   {
     "entity_name": "Territories",
-    "source_url": "https://raw.githubusercontent.com/MaciejDabrowiecki/Medallion-Architecture-in-a-Microsoft-Fabric-Lakehouse/main/Data/Territories.csv",
+    "source_url": "MaciejDabrowiecki/Medallion-Architecture-in-a-Microsoft-Fabric-Lakehouse/main/Data/AdventureWorks_Territories.csv",
     "file_format": "csv",
-    "target_folder": "Files/Bronze/Territories",
+    "target_folder": "Territories",
     "load_type": "full",
     "active": true
   },
   {
     "entity_name": "Sales_2017",
-    "source_url": "https://github.com/MaciejDabrowiecki/Medallion-Architecture-in-a-Microsoft-Fabric-Lakehouse/blob/main/Data/AdventureWorks_Sales_2017.csv",
+    "source_url": "MaciejDabrowiecki/Medallion-Architecture-in-a-Microsoft-Fabric-Lakehouse/main/Data/AdventureWorks_Sales_2017.csv",
     "file_format": "csv",
-    "target_folder": "Files/Bronze/Sales_2017",
+    "target_folder": "Sales_2017",
     "load_type": "full",
     "active": true
   },
   {
     "entity_name": "Sales_2016",
-    "source_url": "https://github.com/MaciejDabrowiecki/Medallion-Architecture-in-a-Microsoft-Fabric-Lakehouse/blob/main/Data/AdventureWorks_Sales_2016.csv",
+    "source_url": "MaciejDabrowiecki/Medallion-Architecture-in-a-Microsoft-Fabric-Lakehouse/main/Data/AdventureWorks_Sales_2016.csv",
     "file_format": "csv",
-    "target_folder": "Files/Bronze/Sales_2016",
+    "target_folder": "Sales_2016",
     "load_type": "full",
     "active": true
   },
   {
     "entity_name": "Returns",
-    "source_url": "https://raw.githubusercontent.com/MaciejDabrowiecki/Medallion-Architecture-in-a-Microsoft-Fabric-Lakehouse/main/Data/Returns.csv",
+    "source_url": "MaciejDabrowiecki/Medallion-Architecture-in-a-Microsoft-Fabric-Lakehouse/main/Data/AdventureWorks_Returns.csv",
     "file_format": "csv",
-    "target_folder": "Files/Bronze/Returns",
+    "target_folder": "Returns",
     "load_type": "full",
     "active": true
   },
   {
     "entity_name": "Products",
-    "source_url": "https://raw.githubusercontent.com/MaciejDabrowiecki/Medallion-Architecture-in-a-Microsoft-Fabric-Lakehouse/main/Data/Products.csv",
+    "source_url": "MaciejDabrowiecki/Medallion-Architecture-in-a-Microsoft-Fabric-Lakehouse/main/Data/AdventureWorks_Products.csv",
     "file_format": "csv",
-    "target_folder": "Files/Bronze/Products",
+    "target_folder": "Products",
     "load_type": "full",
     "active": true
   },
   {
     "entity_name": "Product_Categories",
-    "source_url": "https://github.com/MaciejDabrowiecki/Medallion-Architecture-in-a-Microsoft-Fabric-Lakehouse/blob/main/Data/AdventureWorks_Product_Categories.csv",
+    "source_url": "MaciejDabrowiecki/Medallion-Architecture-in-a-Microsoft-Fabric-Lakehouse/main/Data/AdventureWorks_Product_Categories.csv",
     "file_format": "csv",
-    "target_folder": "Files/Bronze/Product_Categories",
+    "target_folder": "Product_Categories",
     "load_type": "full",
     "active": true
   },
   {
-    "entity_name": "Pproduct_Subcategories",
-    "source_url": "https://github.com/MaciejDabrowiecki/Medallion-Architecture-in-a-Microsoft-Fabric-Lakehouse/blob/main/Data/AdventureWorks_Product_Subcategories.csv",
+    "entity_name": "Product_Subcategories",
+    "source_url": "MaciejDabrowiecki/Medallion-Architecture-in-a-Microsoft-Fabric-Lakehouse/main/Data/AdventureWorks_Product_Subcategories.csv",
     "file_format": "csv",
-    "target_folder": "Files/Bronze/Product_Subcategories",
+    "target_folder": "Product_Subcategories",
     "load_type": "full",
     "active": true
   },
   {
     "entity_name": "Customers",
-    "source_url": "https://raw.githubusercontent.com/MaciejDabrowiecki/Medallion-Architecture-in-a-Microsoft-Fabric-Lakehouse/main/Data/Customers.csv",
+    "source_url": "MaciejDabrowiecki/Medallion-Architecture-in-a-Microsoft-Fabric-Lakehouse/main/Data/AdventureWorks_Customers.csv",
     "file_format": "csv",
-    "target_folder": "Files/Bronze/Customers",
+    "target_folder": "Customers",
     "load_type": "full",
     "active": true
   },
   {
     "entity_name": "Calendar",
-    "source_url": "https://raw.githubusercontent.com/MaciejDabrowiecki/Medallion-Architecture-in-a-Microsoft-Fabric-Lakehouse/main/Data/Calendar.csv",
+    "source_url": "MaciejDabrowiecki/Medallion-Architecture-in-a-Microsoft-Fabric-Lakehouse/main/Data/AdventureWorks_Calendar.csv",
     "file_format": "csv",
-    "target_folder": "Files/Bronze/Calendar",
+    "target_folder": "Calendar",
     "load_type": "full",
     "active": true
   }
