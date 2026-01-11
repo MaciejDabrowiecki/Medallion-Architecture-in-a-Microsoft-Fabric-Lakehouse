@@ -11,7 +11,7 @@
     "entity_name": "Sales_2017",
     "source_url": "MaciejDabrowiecki/Medallion-Architecture-in-a-Microsoft-Fabric-Lakehouse/main/Data/AdventureWorks_Sales_2017.csv",
     "file_format": "csv",
-    "target_folder": "Sales_2017",
+    "target_folder": "Sales",
     "load_type": "full",
     "active": true
   },
@@ -19,7 +19,7 @@
     "entity_name": "Sales_2016",
     "source_url": "MaciejDabrowiecki/Medallion-Architecture-in-a-Microsoft-Fabric-Lakehouse/main/Data/AdventureWorks_Sales_2016.csv",
     "file_format": "csv",
-    "target_folder": "Sales_2016",
+    "target_folder": "Sales",
     "load_type": "full",
     "active": true
   },
