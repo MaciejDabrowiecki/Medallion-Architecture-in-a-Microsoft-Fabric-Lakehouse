@@ -1,5 +1,6 @@
 # Medallion Architecture in Microsoft Fabric (Lakehouse)
-(architecture image will be inserted here)
+<img width="973" height="727" alt="obraz" src="https://github.com/user-attachments/assets/7cae4604-8bab-4542-bba9-50d4f57852ac" />
+
 ## Executive Summary
 
 After identifying a need for modern, scalable data storage and analytics capabilities, and completing a thorough Proof of Concept, the company’s IT Steering Committee approved the implementation of a centralized analytics platform based on Microsoft Fabric.
